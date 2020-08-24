@@ -1,0 +1,25 @@
+{
+  "name": "@network-reengineered/eslint-config",
+  "version": "1.0.0",
+  "description": "Network Re-Engineered's shareable eslint configuration",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Network-Reengineered/eslint-config-network-reengineered.git"
+  },
+  "keywords": [
+    "code",
+    "quality",
+    "style",
+    "lint",
+    "eslint",
+    "checker",
+    "code style"
+  ],
+  "author": "H-Richard <r.hong@pm.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Network-Reengineered/eslint-config-network-reengineered/issues"
+  },
+  "homepage": "https://github.com/Network-Reengineered/eslint-config-network-reengineered#readme"
+}
