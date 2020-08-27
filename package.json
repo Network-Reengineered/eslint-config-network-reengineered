@@ -16,10 +16,20 @@
     "checker",
     "code style"
   ],
+  "peerDependencies": {
+    "eslint": "^5.16.0 || ^6.8.0 || ^7.2.0",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-jsx-a11y": "^6.3.0",
+    "eslint-plugin-react": "^7.20.0",
+    "eslint-plugin-react-hooks": "^4 || ^3 || ^2.3.0 || ^1.7.0"
+  },
   "author": "H-Richard <r.hong@pm.me>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Network-Reengineered/eslint-config-network-reengineered/issues"
   },
-  "homepage": "https://github.com/Network-Reengineered/eslint-config-network-reengineered#readme"
+  "homepage": "https://github.com/Network-Reengineered/eslint-config-network-reengineered#readme",
+  "engines": {
+    "node": ">= 8"
+  }
 }
